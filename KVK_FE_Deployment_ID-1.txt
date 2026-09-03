@@ -1,0 +1,127 @@
+Subjek: Rencana Deployment 8 KD FE — Tekanan Center, Containment Flank & Mobile Reserve
+
+Hi [Leader],
+
+Berdasarkan data player-level terbaru, saya mengusulkan agar 8 KD FE dibagi menjadi 4 grup. Tujuannya bukan membagi kekuatan secara merata, tetapi memusatkan kekuatan di tempat yang dapat menciptakan keunggulan menentukan di Center, sementara Flank dan Reserve digunakan untuk menahan 3916/Wind.
+
+Semua angka di bawah dihitung dari player-level data. Active = End Power ≥25M dan DKP >2M.
+
+1. FIRE CENTER — 3925 + 3928
+
+Dua KD Fire terkuat:
+🔥 3925 + 3928
+
+2. EARTH CENTER — 3907 + 3903
+
+Dua KD Earth terkuat:
+🌍 3907 + 3903
+
+Dengan demikian, 4 KD FE terkuat akan terkonsentrasi di Center.
+
+CENTER FE vs WATER
+Active Power: 24.60B vs 20.64B → FE +19.19%
+Active Troop Power: 4.85B vs 4.36B → FE +11.22%
+Active T5P Power: 15.67B vs 13.81B → FE +13.41%
+Active T5P Troop Power: 3.44B vs 3.18B → FE +8.18%
+
+Inilah alasan saya berpikir Center harus menjadi arah serangan utama. Kita memiliki keunggulan yang jelas bukan hanya dalam Active Power, tetapi juga Active T5P Power.
+
+3. FLANK — 3914 + 3917
+
+🔥 3914
+🌍 3917
+
+Tujuan utama tidak harus langsung breakthrough. Tujuannya adalah mengunci 3916, KD terkuat milik Wind, dan mencegah Wind memindahkan reinforcement dengan bebas ke Center.
+
+3914 + 3917 vs 3916
+Active Power: 8.71B vs 5.56B → +56.65%
+Active Troop Power: 1.63B vs 1.03B → +57.67%
+Active T5P Power: 4.71B vs 3.55B → +32.57%
+Active T5P Troop Power: 978.68M vs 723.73M → +35.23%
+
+4. RESERVE — 3924 + 3909
+
+🔥 3924
+🌍 3909
+
+Saya sangat menyarankan agar dua KD ini tetap sebagai mobile reserve dan tidak langsung di-commit sejak awal.
+
+Jika Center mendapatkan breakthrough → kirim Reserve ke Center.
+Jika 3916/Wind mulai menekan Flank → kirim Reserve untuk memperkuat 3914 + 3917.
+
+5. FLANK + RESERVE = MOBILE FORCE 4 KD
+
+3914 + 3924 + 3917 + 3909 vs 3916:
+Active Power: 17.82B vs 5.56B → +220.35%
+Active Troop Power: 3.21B vs 1.03B → +211.01%
+Active T5P Power: 8.11B vs 3.55B → +128.21%
+Active T5P Troop Power: 1.63B vs 723.73M → +125.13%
+
+Ini bukan berarti kita harus langsung mengirim semua 4 KD ke Flank. Keuntungannya adalah kita memiliki kekuatan yang cukup untuk menahan 3916 bila diperlukan, sambil tetap menjaga Reserve tetap fleksibel.
+
+6. MENGAPA TIDAK MEMBAGI 8 KD SECARA MERATA?
+
+Saat ini FE memiliki:
+🔥 42.42B Active Power vs 38.80B WW → FE +9.33%
+
+Namun dengan memusatkan 4 KD terkuat di Center:
+24.60B Active Power vs 20.64B Water → FE +19.19%
+
+Daripada hanya memiliki keunggulan kecil di semua tempat, kita menciptakan overwhelming local superiority di Center.
+
+7. RENCANA KESELURUHAN
+
+CENTER
+🔥 3925 + 3928
+🌍 3907 + 3903
+→ 4 KD terkuat
+→ Full pressure terhadap Water
+→ Target: breakthrough
+
+FLANK
+🔥 3914
+🌍 3917
+→ Contain 3916
+→ Mencegah Wind mengirim reinforcement ke Water
+
+RESERVE
+🔥 3924
+🌍 3909
+→ Jangan commit terlalu awal
+→ Reinforce Center setelah breakthrough
+→ Atau reinforce Flank jika 3916/Wind memberikan tekanan
+
+8. DEPLOYMENT PLAN
+
+Fire Flank + 3924:
+3914 dan 3924 akan membangun Fortress di area Z6 milik Earth, berkoordinasi dengan 3917 untuk membangun jalur flag yang mendukung tekanan menuju 3916.
+
+Tujuannya adalah membuat jalur Flank yang stabil, mendukung 3917, membuat 3916/Wind tetap sibuk di sisi tersebut, dan membatasi kemampuan Wind untuk memindahkan reinforcement ke Center.
+
+3924 tetap berstatus Reserve meskipun berada di posisi tersebut, karena lokasi Fortress memungkinkan mereka dengan cepat berpindah untuk membantu Flank maupun Center.
+
+Fire flag network:
+Fire sebaiknya membangun full flag sesuai plan sejak awal.
+
+Tujuannya bukan hanya untuk membuka jalur maju Fire. Jalur flag juga memberi kita kontrol terhadap arah pergerakan Water.
+
+Jika Water bergerak lebih cepat daripada Earth, terutama sebelum dua grup Center dapat bergabung:
+
+→ Gunakan jaringan flag Fire yang sudah disiapkan untuk mengarahkan Water masuk ke War Flag.
+→ Perlambat dan tahan Water di sana.
+→ Jangan biarkan Water menembus celah antara Fire dan Earth.
+→ Berikan waktu bagi Earth untuk menyelesaikan pergerakannya.
+→ Setelah Fire + Earth Center bergabung, beralih ke full pressure terhadap Water.
+
+Dengan kata lain, kita tidak perlu sekadar berlomba dengan kecepatan Water. Kita harus mengontrol ke mana Water diperbolehkan bergerak.
+
+Prinsip keseluruhan:
+
+Center = BREAK
+Flank = CONTAIN
+Reserve = REACT
+Fire Flags = CONTROL
+
+Center memenangkan map.
+Flank membuat Wind tetap sibuk.
+Reserve menentukan di mana kita membutuhkan dorongan terakhir.

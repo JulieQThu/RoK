@@ -1,0 +1,127 @@
+Subject: FE 8-KD Deployment Plan — Center Pressure, Flank Containment & Mobile Reserve
+
+Hi [Leader],
+
+Based on the latest player-level data, I want to propose dividing the 8 FE kingdoms into 4 groups. The goal is not to spread our strength evenly, but to concentrate it where it can create a decisive advantage at Center, while using the flank and reserve to contain 3916/Wind.
+
+All numbers below are calculated from player-level data, with Active = End Power ≥25M and DKP >2M.
+
+1. FIRE CENTER — 3925 + 3928
+
+The two strongest Fire kingdoms:
+🔥 3925 + 3928
+
+2. EARTH CENTER — 3907 + 3903
+
+The two strongest Earth kingdoms:
+🌍 3907 + 3903
+
+This puts the 4 strongest FE kingdoms in Center.
+
+CENTER FE vs WATER
+Active Power: 24.60B vs 20.64B → FE +19.19%
+Active Troop Power: 4.85B vs 4.36B → FE +11.22%
+Active T5P Power: 15.67B vs 13.81B → FE +13.41%
+Active T5P Troop Power: 3.44B vs 3.18B → FE +8.18%
+
+This is why Center should be our main offensive direction. We have a clear advantage not only in Active Power, but also in Active T5P Power.
+
+3. FLANK — 3914 + 3917
+
+🔥 3914
+🌍 3917
+
+The main objective is not necessarily an immediate breakthrough. It is to lock down 3916, the strongest Wind KD, and prevent Wind from freely moving reinforcements to Center.
+
+3914 + 3917 vs 3916
+Active Power: 8.71B vs 5.56B → +56.65%
+Active Troop Power: 1.63B vs 1.03B → +57.67%
+Active T5P Power: 4.71B vs 3.55B → +32.57%
+Active T5P Troop Power: 978.68M vs 723.73M → +35.23%
+
+4. RESERVE — 3924 + 3909
+
+🔥 3924
+🌍 3909
+
+I strongly recommend keeping these two as a mobile reserve rather than committing them immediately.
+
+If Center gets a breakthrough → send reserve to Center.
+If 3916/Wind starts pushing the flank → send reserve to reinforce 3914 + 3917.
+
+5. FLANK + RESERVE = 4-KD MOBILE FORCE
+
+3914 + 3924 + 3917 + 3909 vs 3916:
+Active Power: 17.82B vs 5.56B → +220.35%
+Active Troop Power: 3.21B vs 1.03B → +211.01%
+Active T5P Power: 8.11B vs 3.55B → +128.21%
+Active T5P Troop Power: 1.63B vs 723.73M → +125.13%
+
+This does not mean we should commit all 4 KD to the flank. The advantage is that we have enough force to contain 3916 if necessary while keeping the reserve flexible.
+
+6. WHY NOT SPLIT ALL 8 KD EVENLY?
+
+FE currently has:
+🔥 42.42B Active Power vs 38.80B WW → FE +9.33%
+
+But by concentrating our 4 strongest KD in Center:
+24.60B Active Power vs 20.64B Water → FE +19.19%
+
+Instead of having a small advantage everywhere, we create overwhelming local superiority at Center.
+
+7. OVERALL PLAN
+
+CENTER
+🔥 3925 + 3928
+🌍 3907 + 3903
+→ 4 strongest KD
+→ Full pressure on Water
+→ Objective: breakthrough
+
+FLANK
+🔥 3914
+🌍 3917
+→ Contain 3916
+→ Prevent Wind from reinforcing Water
+
+RESERVE
+🔥 3924
+🌍 3909
+→ Do not commit early
+→ Reinforce Center after a breakthrough
+→ Or reinforce flank if 3916/Wind applies pressure
+
+8. DEPLOYMENT PLAN
+
+Fire Flank + 3924:
+3914 and 3924 should build a Fortress in the Z6 area of Earth, coordinating with 3917 to build flags supporting the push toward 3916.
+
+The purpose is to create a stable flank route, support 3917, keep 3916/Wind occupied, and limit Wind's ability to rotate reinforcements toward Center.
+
+3924 remains a reserve even while positioned there, because its location allows it to react quickly to either the flank or Center.
+
+Fire flag network:
+Fire should build the full flag network according to the plan from the beginning.
+
+This is not only for advancing Fire. The flag network also gives us control over Water's approach.
+
+If Water advances faster than Earth, especially before the two Center groups can unite:
+
+→ Use the prepared Fire flag network to funnel Water into the War Flag.
+→ Slow and contain Water there.
+→ Prevent Water from breaking through the gap between Fire and Earth.
+→ Buy time for Earth to complete its advance.
+→ Once Fire + Earth Center unite, switch to full pressure on Water.
+
+In other words, we should not simply race Water. We should control where Water is allowed to advance.
+
+The overall principle is:
+
+Center = BREAK
+Flank = CONTAIN
+Reserve = REACT
+Fire Flags = CONTROL
+
+Center wins the map.
+Flank keeps Wind busy.
+Reserve decides where we need the final push.

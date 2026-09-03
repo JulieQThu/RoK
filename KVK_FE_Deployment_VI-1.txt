@@ -1,0 +1,127 @@
+Tiêu đề: Kế hoạch triển khai 8 KD FE — Ép Center, khóa Flank và lực lượng dự bị cơ động
+
+Chào [Leader],
+
+Dựa trên dữ liệu player-level mới nhất, tôi đề xuất chia 8 KD FE thành 4 cụm. Mục tiêu không phải chia đều lực lượng, mà tập trung sức mạnh vào nơi có thể tạo ưu thế quyết định ở Center, đồng thời dùng Flank và Reserve để kiềm chân 3916/Wind.
+
+Tất cả số liệu dưới đây đều được tính từ player-level data. Active = End Power ≥25M và DKP >2M.
+
+1. FIRE CENTER — 3925 + 3928
+
+Hai KD Fire mạnh nhất:
+🔥 3925 + 3928
+
+2. EARTH CENTER — 3907 + 3903
+
+Hai KD Earth mạnh nhất:
+🌍 3907 + 3903
+
+Như vậy 4 KD mạnh nhất của FE sẽ tập trung ở Center.
+
+CENTER FE so với WATER
+Active Power: 24.60B vs 20.64B → FE +19.19%
+Active Troop Power: 4.85B vs 4.36B → FE +11.22%
+Active T5P Power: 15.67B vs 13.81B → FE +13.41%
+Active T5P Troop Power: 3.44B vs 3.18B → FE +8.18%
+
+Đây là lý do tôi nghĩ Center nên là hướng tấn công chính. Chúng ta có lợi thế rõ ràng không chỉ về Active Power mà cả Active T5P Power.
+
+3. FLANK — 3914 + 3917
+
+🔥 3914
+🌍 3917
+
+Mục tiêu chính không nhất thiết phải breakthrough ngay lập tức. Mục tiêu là khóa 3916, KD mạnh nhất của Wind, và không cho Wind tự do chuyển reinforcement về Center.
+
+3914 + 3917 so với 3916
+Active Power: 8.71B vs 5.56B → +56.65%
+Active Troop Power: 1.63B vs 1.03B → +57.67%
+Active T5P Power: 4.71B vs 3.55B → +32.57%
+Active T5P Troop Power: 978.68M vs 723.73M → +35.23%
+
+4. RESERVE — 3924 + 3909
+
+🔥 3924
+🌍 3909
+
+Tôi đặc biệt đề xuất giữ hai KD này làm mobile reserve thay vì commit ngay từ đầu.
+
+Nếu Center tạo được breakthrough → đưa Reserve vào Center.
+Nếu 3916/Wind bắt đầu đẩy mạnh Flank → đưa Reserve hỗ trợ 3914 + 3917.
+
+5. FLANK + RESERVE = LỰC LƯỢNG CƠ ĐỘNG 4 KD
+
+3914 + 3924 + 3917 + 3909 so với 3916:
+Active Power: 17.82B vs 5.56B → +220.35%
+Active Troop Power: 3.21B vs 1.03B → +211.01%
+Active T5P Power: 8.11B vs 3.55B → +128.21%
+Active T5P Troop Power: 1.63B vs 723.73M → +125.13%
+
+Điều này không có nghĩa là phải commit cả 4 KD vào Flank ngay từ đầu. Lợi thế nằm ở chỗ chúng ta có đủ lực lượng để contain 3916 khi cần, đồng thời vẫn giữ được Reserve cơ động.
+
+6. TẠI SAO KHÔNG CHIA ĐỀU CẢ 8 KD?
+
+Hiện tại FE có:
+🔥 42.42B Active Power vs 38.80B WW → FE +9.33%
+
+Nhưng khi tập trung 4 KD mạnh nhất vào Center:
+24.60B Active Power vs 20.64B Water → FE +19.19%
+
+Thay vì chỉ có lợi thế nhỏ ở mọi nơi, chúng ta tạo overwhelming local superiority tại Center.
+
+7. KẾ HOẠCH TỔNG THỂ
+
+CENTER
+🔥 3925 + 3928
+🌍 3907 + 3903
+→ 4 KD mạnh nhất
+→ Full pressure lên Water
+→ Mục tiêu: breakthrough
+
+FLANK
+🔥 3914
+🌍 3917
+→ Contain 3916
+→ Không cho Wind chuyển reinforcement sang Water
+
+RESERVE
+🔥 3924
+🌍 3909
+→ Không commit sớm
+→ Reinforce Center khi có breakthrough
+→ Hoặc reinforce Flank nếu 3916/Wind tạo áp lực
+
+8. DEPLOYMENT PLAN
+
+Fire Flank + 3924:
+3914 và 3924 sẽ xây Fortress ở khu vực Z6 của Earth, phối hợp với 3917 xây tuyến cờ hỗ trợ hướng đánh vào 3916.
+
+Mục tiêu là tạo tuyến Flank ổn định, hỗ trợ 3917, giữ 3916/Wind bận ở cánh và hạn chế khả năng Wind chuyển reinforcement về Center.
+
+3924 vẫn giữ vai trò Reserve dù đang đặt ở vị trí này, vì vị trí Fortress cho phép nó nhanh chóng chuyển sang hỗ trợ Flank hoặc Center.
+
+Fire flag network:
+Fire nên xây full flag theo plan ngay từ đầu.
+
+Mục tiêu không chỉ là mở đường tiến quân cho Fire. Tuyến cờ cũng giúp chúng ta kiểm soát hướng Water tiến vào.
+
+Nếu Water tiến nhanh hơn Earth, đặc biệt trước khi hai Center group hợp quân:
+
+→ Dùng tuyến cờ Fire đã chuẩn bị để đưa Water vào War Flag.
+→ Làm chậm và giữ chân Water tại đó.
+→ Không để Water xuyên qua khoảng trống giữa Fire và Earth.
+→ Mua thời gian cho Earth hoàn thành đường tiến.
+→ Khi Fire + Earth Center hợp quân, chuyển sang full pressure lên Water.
+
+Nói cách khác, chúng ta không cần đơn thuần chạy đua với Water. Chúng ta cần kiểm soát hướng mà Water được phép tiến vào.
+
+Nguyên tắc tổng thể:
+
+Center = BREAK
+Flank = CONTAIN
+Reserve = REACT
+Fire Flags = CONTROL
+
+Center thắng bản đồ.
+Flank giữ Wind bận.
+Reserve quyết định nơi cần cú đẩy cuối cùng.
